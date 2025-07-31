@@ -196,6 +196,7 @@ secret_key.txt
 medbot_tasks/
 *.md
 !README.md
+!DEPLOYMENT.md
 analyze_presentation.py
 presentation_analysis.json
 medbot_presentation_summary.md
